@@ -79,7 +79,7 @@ We explored the data to understand patterns and trends:
 ## How to Run
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/HR-Analytics-ML.git
+git clone https://github.com/hxrshitx/HR-Analytics-ML
 ```
 
 2. Open the notebook in either Jupyter Notebook or Google Colab.
